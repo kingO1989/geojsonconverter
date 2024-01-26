@@ -1,6 +1,6 @@
 ## About
 
-A back end application that convert google search api json result into to a GEOJSON format servic.
+A back end application that convert google search api json result into a GEOJSON format.
 
 ## Tech stack
 
